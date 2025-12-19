@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Welcome to My Website</h1>
-    <p>This is a simple website hosted for free using GitHub Pages.</p>
+    <p>This is a simple .</p>
  <h1>Welcome to My Website</h1>
     <p>Hello anuruddhi hooooo.</p>
 </body>
